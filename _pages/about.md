@@ -22,9 +22,9 @@ Publications
 Honors and awards
 ======
 - 1st Prize, HUAWEI Cup(The only), on National Undergraduate IoT Design Contest <span>2022</span>
-- National Scholarship (Top 1%) <p align="right">2022</p>
-- People’s Scholarship <p align="right">2020,2021,2022</p>
-- Excellent Student Cadre (Top 5%) <p align="right">2020,2021,2022</p>
+- National Scholarship (Top 1%) <span>2022</span>
+- People’s Scholarship <span>2020,2021,2022</span>
+- Excellent Student Cadre (Top 5%) <span>2020,2021,2022</span>
 
 Site-wide configuration
 ------
