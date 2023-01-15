@@ -29,14 +29,12 @@ Honors and awards
 
 Experience
 =====
-**HIT SCIR** Jun. 2022 – Present 
-Master candidate Supervisors: Prof. Bing Qin and A.P. Xiaocheng Feng.
+**HIT SCIR** Master candidate Jun. 2022 – Present    Supervisors: Prof. Bing Qin and A.P. Xiaocheng Feng.
 - Working at Text Generation Group in Research Center for Social Computing and Information Retrieval
 - Based on stable-diffusion to solve Story Visualization task
 - Solving multimodal condition fusion problem and character consistency problem in Story Visualization task
 
-**WI (Web Intelligence) Lab**  Dec. 2021 – May. 2022 Research Intern
-Advised by Prof. Yi Guan, collaborated with Xuehui Yu
+**WI (Web Intelligence) Lab**  Research Intern Dec. 2021 – May. 2022   Advised by Prof. Yi Guan, collaborated with Xuehui Yu
 - We propose a novel hierarchical RL framework for complex biological system control, which can selfsupervised learn skills and reuse learned skills.
 
 Coding Skills
