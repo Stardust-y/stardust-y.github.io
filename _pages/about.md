@@ -12,6 +12,7 @@ Glad to see you here. My name is Xinmiao Yu (于鑫淼). Currently, I’m a post
 
 Education
 ======
+- B.S. in School of Computer Science(CS), Harbin Institute of Technology, 2019-2023
 
 
 Publications
@@ -25,4 +26,21 @@ Honors and awards
 - National Scholarship (Top 1%) <span align="right">2022</span>
 - People’s Scholarship <span align="right">2020,2021,2022</span>
 - Excellent Student Cadre (Top 5%) <span>2020,2021,2022</span>
+
+Experience
+=====
+HIT SCIR Harbin, China Jun. 2022 – Present
+Master candidate Supervisors: Prof. Bing Qin and A.P. Xiaocheng Feng.
+• Working at Text Generation Group in Research Center for Social Computing and Information Retrieval
+• Based on stable-diffusion to solve Story Visualization task
+• Solving multimodal condition fusion problem and character consistency problem in Story Visualization task
+WI (Web Intelligence) Lab Harbin, China Dec. 2021 – May. 2022
+Research Intern Advised by Prof. Yi Guan, collaborated with Xuehui Yu
+• We propose a novel hierarchical RL framework for complex biological system control, which can selfsupervised learn skills and reuse learned skills.
+
+Coding Skills
+=====
+- Programming Languages: C Python Java
+- Platform: Pytorch, Tensorflow, SpringBoot, JavaScript
+
 
