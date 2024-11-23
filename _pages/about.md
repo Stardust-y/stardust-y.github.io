@@ -10,9 +10,12 @@ redirect_from:
 
 Glad to see you here. My name is Xinmiao (Mia) Yu. Currently, I’m a double-degree Master student at Politecnico di Milano and Harbin Institute of Technology, supervised by [Prof.Bing Qin](http://ir.hit.edu.cn/~qinb/) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). My current reasearch focuses on Natural language processing and multimodal generation. More specificly,
 1. Vision-language comprehension
-   Focus on adapting Stable-diffusion model to story visualization task which generate consistent pictures to depict long story.
+   - Enhancing vision-language models through advanced methods like reinforcement learning, cross-lingual data alignment, and mutual information maximization. 
+   - Exploring challenges in text-rich visual comprehension, such as improving OCR capabilities, addressing cross-lingual disparities, and activating visual information effectively across languages.
 2. Generative agents
-   Focusing on how to using LLM's emergent abilities such as ICL and CoT to solve knowledge reasoning and decision, includes embodied agents in robotics environment and generative agents' interaction in open text world.
+   - Designed agent-based approach for learning on text-attributed graphs using large language models (LLMs), which explores graph structures and text features, improving performance and interpretability through state-action planning.
+   - Investigating how LLM-powered agents can improve task planning by enabling robots to create and refine 3D scene maps. Using techniques like Chain-of-Thought reasoning, these agents aim to enhance task precision, efficiency, and autonomy in real-world scenarios.
+
 
 Education
 ======
@@ -24,11 +27,11 @@ Education
 
 Publications
 ======
-1. **Xinmiao Yu**, Xiaocheng Feng, Yun Li, Minghui Liao, Ya-Qi Yu, Xiachong Feng, Weihong Zhong, Rui- han Chen, Mengkang Hu, Jihao Wu, Duyu Tang, Dandan Tu, Bing Qin. Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective. submitted to AAAI 2024
-2. Mengkang Hu, Yao Mu, **Xinmiao Yu**, Mingyu Ding, Shiguang Wu, Wenqi Shao, Qiguang Chen, Bin Wang, Yu Qiao, Ping Luo. Tree-Planner: Efficient Close-loop Task Planning with Large Language Models [arxiv][ICLR 2024]
+1. **Xinmiao Yu**, Xiaocheng Feng, Yun Li, Minghui Liao, Ya-Qi Yu, Xiachong Feng, Weihong Zhong, Rui- han Chen, Mengkang Hu, Jihao Wu, Duyu Tang, Dandan Tu, Bing Qin. Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective. [submitted to AAAI 2024](https://openreview.net/forum?id=gpshzf8gx3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))
+2. Mengkang Hu, Yao Mu, **Xinmiao Yu**, Mingyu Ding, Shiguang Wu, Wenqi Shao, Qiguang Chen, Bin Wang, Yu Qiao, Ping Luo. Tree-Planner: Efficient Close-loop Task Planning with Large Language Models [arxiv](https://arxiv.org/pdf/2310.08582) [ICLR 2024](https://arxiv.org/pdf/2310.08582)
 3. **Xinmiao Yu**, Meng Qu, Xiaocheng Feng, Bing Qin. GraphAgent: Exploiting Large Language Models for Interpretable Learning on Text-attributed Graphs. [arxiv](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=yflYWnYAAAAJ&citation_for_view=yflYWnYAAAAJ:9yKSN-GCB0IC)
-4. Zhangyin Feng, Yuchen Ren, **Xinmiao Yu**, Xiaocheng Feng, Duyu Tang, Shuming Shi, Bing Qin. Improved Visual Story Generation with Adaptive Context Modeling. ACL 2023
-5. Xuehui Yu, Jingchi Jiang, **Xinmiao Yu**, Yi Guan*,Xue Li. Causal Coupled Mechanisms: A Control Method with Cooperation and Competition for Complex System The BIBM 2022
+4. Zhangyin Feng, Yuchen Ren, **Xinmiao Yu**, Xiaocheng Feng, Duyu Tang, Shuming Shi, Bing Qin. Improved Visual Story Generation with Adaptive Context Modeling. [ACL 2023](https://arxiv.org/pdf/2305.16811)
+5. Xuehui Yu, Jingchi Jiang, **Xinmiao Yu**, Yi Guan*,Xue Li. Causal Coupled Mechanisms: A Control Method with Cooperation and Competition for Complex System The [BIBM 2022](https://arxiv.org/pdf/2209.07368)
 
 
 Honors and awards
@@ -41,30 +44,6 @@ Honors and awards
 - National Scholarship (Top 1%) <span align="right">2022</span>
 - People’s Scholarship <span align="right">2020,2021,2022</span>
 - Excellent Student Cadre (Top 5%) <span>2020,2021,2022</span>
-
-Experience
-=====
-**HIT SCIR** Master candidate Jun. 2022 – Present  
-Supervisors: Prof. Bing Qin and A.P. Xiaocheng Feng.
-- Working at Text Generation Group in Research Center for Social Computing and Information Retrieval
-- Based on stable-diffusion to solve Story Visualization task
-- Solving multimodal condition fusion problem and character consistency problem in Story Visualization task
-
-**Huawei Noah’s Ark Lab Harbin, China Apr. 2023 – Present
-Collabrator Collabrated with Intern Student PhD (candidate) MengKang Hu
-• Sampling, Grounding and Deciding with LLM(GPT-3.5) as embodied agent to generate robotics task plan
-• Implement baseline experiment of ProgPrompt in Virtual Home environment
-
-**Westlake University** Hangzhou, China Feb. 2023 – Present
-Remote Intern Supervisors: Prof. Stan Z.Li and PhD.Cheng Tan and PhD.Zhangyang Gao
-- Conduct research on protein sequences and structures co-design based on generative models like diffusion
-under the supervision of PhD.Zhangyang Gao.
-- Design and implement computational models to predict protein structures and analyze protein-ligand inter-
-actions.
-
-**WI (Web Intelligence) Lab**  Research Intern Dec. 2021 – May. 2022 
-Advised by Prof. Yi Guan, collaborated with Xuehui Yu
-- We propose a novel hierarchical RL framework for complex biological system control, which can selfsupervised learn skills and reuse learned skills.
 
 More about me
 ======
