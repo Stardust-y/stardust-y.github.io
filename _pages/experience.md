@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experience/
+author_profile: true
+redirect_from:
+  - /resume
+---
 HUAWEI Shanghai, China Oct. 2023 – Aug. 2024 Research Intern Supervisors: Duyu Tang and Prof. Xiaocheng Feng
 • Developed data construction and alignment training methods for visual language models, incorporating reinforcement learning techniques to enhance OCR and complex reasoning capabilities on text-rich images.
 • ConstructedXT-VQA,across-lingualtext-richvisualQAbenchmark,revealingperformancegapsinLVLMs due to insufficient visual information activation across languages.
