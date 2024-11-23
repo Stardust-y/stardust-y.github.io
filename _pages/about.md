@@ -66,6 +66,10 @@ actions.
 Advised by Prof. Yi Guan, collaborated with Xuehui Yu
 - We propose a novel hierarchical RL framework for complex biological system control, which can selfsupervised learn skills and reuse learned skills.
 
+More about me
+======
+I’m fasinated with reading, traveling, and skiing. I also love spending my free time cooking (it kind of feels like doing fun experiments in the kitchen). Here are some snapshots from my life—hope you enjoy!
+
 Coding Skills
 =====
 - Programming Languages: C Python Java

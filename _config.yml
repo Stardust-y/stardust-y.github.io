@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinmiao Yu"
+  name             : "Xinmiao (Mia) Yu"
   avatar           : "profile.png"
-  bio              : "Postgraduate at SCIR, Harbin Institute of Technology"
-  location         : "Harbin, China"
+  bio              : "Double degree master student at Politecnico di Milano and Harbin Institute of Technology"
+  location         : "Milano, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=yflYWnYAAAAJ"
-  email            :
+  email            : "xmyu@ir.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "Stardust-y"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/chelsey11_28/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xinmiao-yu-bb5069239/"
   orcid            : 
   pinterest        :
   soundcloud       :
