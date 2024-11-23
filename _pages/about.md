@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Xinmiao (Mia) Yu. Currently, I’m a double-degree Master student at Politecnico di Milano and Harbin Institute of Technology, supervised by [Prof.Bing Qin](http://ir.hit.edu.cn/~qinb/) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). My current reasearch focuses on Natural language processing and multimodal generation. More specificly,
+Glad to see you here. My name is Xinmiao (Mia) Yu. Currently, I’m a double-degree Master student at Politecnico di Milano and Harbin Institute of Technology, supervised by [Prof.Bing Qin](http://ir.hit.edu.cn/~qinb/) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). My current research interest focuses on developing advanced multimodal models and LLM agents capable of enhancing their intelligence through interaction with the real world. More specificly,
 1. Vision-language comprehension
    - Enhancing vision-language models through advanced methods like reinforcement learning, cross-lingual data alignment, and mutual information maximization. 
    - Exploring challenges in text-rich visual comprehension, such as improving OCR capabilities, addressing cross-lingual disparities, and activating visual information effectively across languages.
