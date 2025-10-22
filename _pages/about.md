@@ -56,4 +56,6 @@ Coding Skills
 - Programming Languages: C Python Java
 - Platform: Pytorch, Tensorflow, SpringBoot, JavaScript
 
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=N3zYxA7YILhkTYxA82MBT-itzV9WUXad3oxKg96AmZE&cl=ffffff&w=a"></script>
+
 
