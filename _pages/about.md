@@ -27,7 +27,7 @@ Professional Experience
 
 Publications
 ======
-1. **Xinmiao Yu**, Xiaocheng Feng, Yun Li, Minghui Liao, Ya-Qi Yu, Xiachong Feng, Weihong Zhong, Rui- han Chen, Mengkang Hu, Jihao Wu, Duyu Tang, Dandan Tu, Bing Qin. Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective. [submitted to AAAI 2024](https://openreview.net/forum?id=gpshzf8gx3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))
+1. **Xinmiao Yu**, Xiaocheng Feng, Yun Li, Minghui Liao, Ya-Qi Yu, Xiachong Feng, Weihong Zhong, Rui- han Chen, Mengkang Hu, Jihao Wu, Duyu Tang, Dandan Tu, Bing Qin. Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective. [AAAI 2025](https://openreview.net/forum?id=gpshzf8gx3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))
 2. Mengkang Hu, Yao Mu, **Xinmiao Yu**, Mingyu Ding, Shiguang Wu, Wenqi Shao, Qiguang Chen, Bin Wang, Yu Qiao, Ping Luo. Tree-Planner: Efficient Close-loop Task Planning with Large Language Models [arxiv](https://arxiv.org/pdf/2310.08582) [ICLR 2024](https://arxiv.org/pdf/2310.08582)
 3. **Xinmiao Yu**, Meng Qu, Xiaocheng Feng, Bing Qin. GraphAgent: Exploiting Large Language Models for Interpretable Learning on Text-attributed Graphs. [arxiv](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=yflYWnYAAAAJ&citation_for_view=yflYWnYAAAAJ:9yKSN-GCB0IC)
 4. Zhangyin Feng, Yuchen Ren, **Xinmiao Yu**, Xiaocheng Feng, Duyu Tang, Shuming Shi, Bing Qin. Improved Visual Story Generation with Adaptive Context Modeling. [ACL 2023](https://arxiv.org/pdf/2305.16811)
@@ -48,7 +48,12 @@ Honors and awards
 
 More about me
 ======
-I’m fasinated with reading, traveling, and skiing. I also love spending my free time cooking (it kind of feels like doing fun experiments in the kitchen). Here are some snapshots from my life—hope you enjoy!
+- A science fiction enthusiast fascinated by films and novels; my favorite movie is *Gattaca* and favorite book series is *Foundation*. I hope my research can one day contribute to space exploration.
+
+- Passionate about traveling and exploring diverse cultures and histories — I’ve visited over 20 countries across four continents and look forward to discovering more of the world.
+
+- An avid skier (especially alpine skiing), I enjoy the thrill of every descent and the challenge of mastering tougher trails through continuous skill improvement.
+
 
 Coding Skills
 =====
