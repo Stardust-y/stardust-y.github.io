@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Xinmiao (Mia) Yu. Currently, I’m a double-degree Master student at Politecnico di Milano and Harbin Institute of Technology, supervised by [Prof.Bing Qin](http://ir.hit.edu.cn/~qinb/) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). 
+Glad to see you here. My name is Xinmiao Yu. Currently, I’m a double-degree Master student at Politecnico di Milano and Harbin Institute of Technology, supervised by [Prof.Bing Qin](http://ir.hit.edu.cn/~qinb/) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). 
 I have collaborated with Huawei on vision-language models under the supervision of [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN&oi=ao#/). I worked as a research intern at MILA, where I was supervised by [Meng Qu](https://mengqu.github.io/) on the GraphAgent project. Additionally, I work closely with [Ishika Singh](https://ishikasingh.github.io/) and [Wang Zhu](https://scholar.google.com/citations?user=dMkqNF8AAAAJ&hl=zh-CN&oi=ao) at the [USC GLAMOR Lab](https://glamor-usc.github.io/).
 My current research interest focuses on developing advanced multimodal models and LLM agents capable of enhancing their intelligence through interaction with the real world. More specificly,
 1. Vision-language comprehension
