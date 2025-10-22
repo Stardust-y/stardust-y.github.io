@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Xinmiao Yu. Currently, I’m a double-degree Master student at Politecnico di Milano and Harbin Institute of Technology, supervised by [Prof.Bing Qin](http://ir.hit.edu.cn/~qinb/) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). 
-I have collaborated with Huawei on vision-language models under the supervision of [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN&oi=ao#/). I worked as a research intern at MILA, where I was supervised by [Meng Qu](https://mengqu.github.io/) on the GraphAgent project. Additionally, I work closely with [Ishika Singh](https://ishikasingh.github.io/) and [Wang Zhu](https://scholar.google.com/citations?user=dMkqNF8AAAAJ&hl=zh-CN&oi=ao) at the [USC GLAMOR Lab](https://glamor-usc.github.io/).
-My current research interest focuses on developing advanced multimodal models and LLM agents capable of enhancing their intelligence through interaction with the real world. More specificly,
-1. Vision-language comprehension
-   - Enhancing vision-language models through advanced methods like reinforcement learning, cross-lingual data alignment, and mutual information maximization. 
-   - Exploring challenges in text-rich visual comprehension, such as improving OCR capabilities, addressing cross-lingual disparities, and activating visual information effectively across languages.
-2. Generative agents
-   - Designed agent-based approach for learning on text-attributed graphs using large language models (LLMs), which explores graph structures and text features, improving performance and interpretability through state-action planning.
-   - Investigating how LLM-powered agents can improve task planning by enabling robots to create and refine 3D scene maps. Using techniques like Chain-of-Thought reasoning, these agents aim to enhance task precision, efficiency, and autonomy in real-world scenarios.
+Glad to see you here. My name is Xinmiao Yu. My current interest focuses on agents with continual adaptation and self-improvement, while ensuring robustness and trustworthiness in human–AI interaction.
 
 
 Education
@@ -25,6 +17,12 @@ Education
 - M.S. in Computer Science and Technology, Harbin Institute of Technology, 2023.09-2026.03
 - Visiting student, University of California Los Angeles, 2023.03-2023.06
 - B.S. in School of Computer Science(CS), Harbin Institute of Technology, 2019.09-2023.06
+
+Professional Experience 
+- Research Intern at Alibaba Tongyi NLP Lab Hangzhou, China 2025.07 -- Now
+- Technical Solution Intern at Deloitte Shanghai, China 2024.06 -- 2024.09
+- Research Intern at Huawei Shanghai, China 2023.10 -- 2024.06
+- Research Intern at MILA Quebec, Canada 2023.06 -- 2023.09
 
 
 Publications
@@ -38,6 +36,7 @@ Publications
 
 Honors and awards
 ======
+- National Scholarship(Top 1%) <span>2025</span>
 - First-Class Graduate Scholarship(Top 20%) <span>2024</span> 
 - Deloitte Digital Elite Challenge Runner-up(Top 0.2%) <span>2024</span> 
 - Graduate Entrance Outstanding Scholarship(Top 20%) <span>2023</span> 
