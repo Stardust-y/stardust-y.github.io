@@ -19,6 +19,7 @@ Education
 - B.S. in School of Computer Science(CS), Harbin Institute of Technology, 2019.09-2023.06
 
 Professional Experience 
+======
 - Research Intern at Alibaba Tongyi NLP Lab Hangzhou, China 2025.07 -- Now
 - Technical Solution Intern at Deloitte Shanghai, China 2024.06 -- 2024.09
 - Research Intern at Huawei Shanghai, China 2023.10 -- 2024.06
