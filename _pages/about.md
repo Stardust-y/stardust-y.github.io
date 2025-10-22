@@ -20,10 +20,10 @@ Education
 
 Professional Experience 
 ======
-- Research Intern at Alibaba Tongyi NLP Lab Hangzhou, China 2025.07 -- Now
-- Technical Solution Intern at Deloitte Shanghai, China 2024.06 -- 2024.09
-- Research Intern at Huawei Shanghai, China 2023.10 -- 2024.06
-- Research Intern at MILA Quebec, Canada 2023.06 -- 2023.09
+- Research Intern at **Alibaba Tongyi NLP Lab**    Hangzhou, China 2025.07 -- Now
+- Technical Solution Intern at **Deloitte**    Shanghai, China 2024.06 -- 2024.09
+- Research Intern at **Huawei**   Shanghai, China 2023.10 -- 2024.06
+- Research Intern at **MILA**     Quebec, Canada 2023.06 -- 2023.09
 
 
 Publications
